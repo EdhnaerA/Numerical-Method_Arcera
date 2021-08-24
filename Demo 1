@@ -1,0 +1,31 @@
+x = "enjoying"
+print("Python programming is " + x )
+
+x = 4
+y = 3
+print(x+y)
+
+x = 4
+y = 3
+sum= x+y
+sum
+
+a,b,c=0,-1,5
+c%=2 
+c
+
+E = 2
+A = 3
+Compare= E<A
+print(Compare)
+
+A = 5
+B = 3
+print(A + B)
+
+H = 1
+L = 27
+R = 98
+print(H + L + R)
+
+https://colab.research.google.com/drive/1J926VlePaA9a7Ps_TMXfOcGUZRFSYNIP?usp=sharing
